@@ -1,2 +1,6 @@
 # Android_Login
-Simple pantalla de login de aplicación Android con un gif.
+Mi primer login a través de una aplicación Android simple.
+
+El login no es funcional más allá de lo estético.
+
+
